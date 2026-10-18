@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(void)
 {
-double x;
-scanf("%15f",&x);
-printf("%15f",&x);
+double d;
+scanf("%15f",&d);
+printf("%15f",&d);
 return 0;
 }
