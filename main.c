@@ -2,7 +2,7 @@
 int main(void)
 {
 double d;
-scanf("%1f",&d);
+scanf("%lf",&d);
 printf("%.15f\n",d);
 return 0;
 }
